@@ -1,1 +1,1 @@
-# somestudyguides-flashcardapp
+# flashcardapp
